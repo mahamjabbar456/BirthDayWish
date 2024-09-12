@@ -8,7 +8,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 import dynamic from "next/dynamic";
 import { FaBirthdayCake, FaGift} from 'react-icons/fa';
 import { GiBalloons } from "react-icons/gi";
-import { style } from "framer-motion/client";
 
 // Define type for Confetti component props
 type ConfettiProps = {
